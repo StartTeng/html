@@ -21,7 +21,7 @@ GitHub是一个代码版本控制和协作的托管平台。它可以让你和�
 在仓库名称输入框中输入你的仓库名称：“hello-world”。
 写一个简短的描述。
 勾选“Initialize this repository with a README”。
-图片: https://uploader.shimo.im/f/bnvXtJV92BU0ziGN.png
+![图片](https://uploader.shimo.im/f/bnvXtJV92BU0ziGN.png)
 点击“Create repository”按钮，完成创建。
 第二步:创建一个分支
 分支是一个可以让你在同一时间工作在同一个仓库的不同版本的方法。
